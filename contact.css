@@ -1,0 +1,16 @@
+ a {
+     text-decoration: underline;
+ }
+ 
+ #navbar {
+     background: lightslategray;
+     display: flex;
+     position: sticky;
+ }
+ 
+ #showcase {
+     background: lightcyan url(../Images/2.jpg) no-repeat center center/cover;
+     height: 100vh;
+     color: darkblue;
+     text-align: center;
+ }

@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(to right top, #f660b5, #e672cf, #d283e4, #bb93f3, #a3a1fc, #8daeff, #7cbaff, #72c4ff, #73d0f9, #80daf2, #96e2ea, #aee9e5);
+}
+
+.container {
+    border-radius: 5px;
+    background-color: lightslategrey;
+    padding: 16px;
+    margin: 120px;
+    margin-right: 580px;
+    margin-left: 580px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid lemonchiffon;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input,
+submit:hover {
+    background-color: lightsteelblue;
+}
+
+h3 {
+    color: mediumblue;
+    text-align: center;
+}
